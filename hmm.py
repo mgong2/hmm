@@ -1,6 +1,5 @@
 import numpy as np
 from scipy import stats
-import sklearn
 from numpy import random
 
 
